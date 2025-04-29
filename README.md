@@ -31,7 +31,8 @@ Fake/simulated values were used for demonstration due to hardware limitations.
 
 ## 🎥 Video Explanation:
 👉 [Click here to watch the project demonstration](https://1drv.ms/v/c/0b7df465fa9f536e/EdXlwqsf0Z1NlDeuQrnURJUBnG7pYasbiAadN4MFt9ROMQ?e=W0lrcl)
-
+## 📌 Project Report 
+https://drive.google.com/file/d/1v78HfYFmA-x42nO8XJd5lfDRkd3S0cD6/view?usp=drive_link
 ---
 
 ## 💻 Technologies Used:
