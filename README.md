@@ -33,6 +33,8 @@ Fake/simulated values were used for demonstration due to hardware limitations.
 👉 [Click here to watch the project demonstration](https://1drv.ms/v/c/0b7df465fa9f536e/EdXlwqsf0Z1NlDeuQrnURJUBnG7pYasbiAadN4MFt9ROMQ?e=W0lrcl)
 ## 📌 Project Report 
 https://drive.google.com/file/d/1v78HfYFmA-x42nO8XJd5lfDRkd3S0cD6/view?usp=drive_link
+## 📌 Project Presentation
+https://docs.google.com/presentation/d/10VMuA6defwkJ1tAMm3QBBTJhzGh9ysyb/edit?usp=drive_link&ouid=100526307239521411987&rtpof=true&sd=true 
 ---
 
 ## 💻 Technologies Used:
